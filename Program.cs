@@ -16,7 +16,7 @@ namespace HomeworkSeminar20072023
 				Task66.SumBethNumbers();
 				WaitUser();
                 Console.WriteLine("Задача №68");
-				Task68.Ackerman();
+				Task68.FunctionAckerman();
             }
 			catch (Exception ex)
 			{
